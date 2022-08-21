@@ -1,4 +1,5 @@
 import sys
+variable="aguante la comi 31100"
 
 if len(sys.argv) == 3:
     nota1 = float(sys.argv[1])
